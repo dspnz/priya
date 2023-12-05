@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Patel;Priya;;;
+FN:Priya Patel
+ORG:Dynamic Simple Provider
+ADR;TYPE=WORK:
+TITLE:Marketing Executive
+TEL;TYPE=CELL:+6492171977
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:priya@dspnz.com
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Transforming professional networking through digital business cards. Streamline your connections effortlessly.
+UID:EnBizCard-100223368
+END:VCARD
